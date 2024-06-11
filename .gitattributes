@@ -1,0 +1,40 @@
+# Unity text assets
+*.cs     text
+*.shader text
+*.cginc  text
+*.hlsl   text
+*.txt    text
+*.json   text
+*.xml    text
+*.yaml   text
+
+# Unity binary assets
+*.dll    binary
+*.jpg    binary
+*.png    binary
+*.psd    binary
+*.fbx    binary
+*.mp3    binary
+*.wav    binary
+*.ogg    binary
+*.mp4    binary
+*.mov    binary
+
+# Unity specific files
+*.meta   text
+*.unity  text
+*.asset  text
+*.mat    text
+*.physicMaterial text
+*.spriteatlas text
+*.prefs  text
+*.preset text
+*.anim   text
+*.controller text
+*.overrideController text
+*.mask   text
+*.lighting text
+*.assemblyDefinition text
+*.asmdef text
+*.asmref text
+*.unitypackage binary
